@@ -1,0 +1,13 @@
+# Notebooks
+ipykernel
+
+# Data Handling
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
