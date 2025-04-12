@@ -1,13 +1,13 @@
 # Notebooks
-ipykernel
+ipykernel==6.29.5
 
 # Data Handling
-pandas
-numpy
+pandas==2.2.3
+numpy==2.2.4
 
 # Data Visualization
-matplotlib
-seaborn
+matplotlib==3.10.1
+seaborn==0.13.2
 
 # Machine Learning
-scikit-learn
+scikit-learn==1.6.1
