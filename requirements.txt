@@ -1,6 +1,9 @@
 # Notebooks
 ipykernel==6.29.5
 
+# Engine
+pyarrow==19.0.1
+
 # Data Handling
 pandas==2.2.3
 numpy==2.2.4
